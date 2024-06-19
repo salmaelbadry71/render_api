@@ -1,0 +1,6 @@
+fastapi[all]
+pydantic
+joblib
+numpy
+starlette
+
