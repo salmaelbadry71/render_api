@@ -3,4 +3,6 @@ pydantic
 joblib
 numpy
 starlette
+scikit-learn
+
 
